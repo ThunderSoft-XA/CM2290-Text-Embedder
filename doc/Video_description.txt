@@ -1,0 +1,1 @@
+This video demonstrates a text Embedder project. Run the application on CM2290, Enter two pieces of text, click "compare" and wait. The model identifies the semantics itself and compares them to come up with a value for semantic similarity. The closer the value is to 1, the closer the meaning of the two pieces of text is.
