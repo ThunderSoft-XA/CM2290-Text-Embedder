@@ -1,4 +1,4 @@
-# MediaPipe Tasks Text Embedder Android Demo
+# Text Embedder Android Demo
 
 ### Overview
 
